@@ -72,8 +72,8 @@ where you can create incidents, list them, delete them using Django and DRF.
 
 ---
 
-![Image](screencapture-127-0-0-1-8000-api-incidents-2025-04-27-21_20_02.png)
-![Image](screencapture-127-0-0-1-8000-api-incidents-2-2025-04-27-21_20_32.png)
+![Image](homeassignment/screencapture-127-0-0-1-8000-api-incidents-2025-04-27-21_20_02.png)
+![Image](homeassignment/screencapture-127-0-0-1-8000-api-incidents-2-2025-04-27-21_20_32.png)
 
 
 
